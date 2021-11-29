@@ -1,1 +1,2 @@
-# English-word-encryption-mirroring-
+# English-word-encryption-mirroring
+Here has (char) usage
